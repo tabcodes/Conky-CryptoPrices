@@ -1,3 +1,5 @@
+![screenshot of the crypto-conky script](https://raw.githubusercontent.com/TheodoreBellas/Conky-CryptoPrices/master/conky.png)
+
 # Conky-CryptoPrices
 A small PHP script that outputs information on cryptocurrency prices in a Conky-friendly format.
 
